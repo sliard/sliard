@@ -31,4 +31,4 @@ I enjoy sharing knowledge through talks and community events, especially around 
 
 - Website: [liard.me](https://liard.me)
 - LinkedIn: [linkedin.com/in/samuelliard](https://www.linkedin.com/in/samuelliard/)
-- Talks & writing: [liard.me](https://liard.me)
+- Talks & writing: [liard.me/talks](https://liard.me/talks/)
